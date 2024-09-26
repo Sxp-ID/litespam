@@ -1,27 +1,23 @@
-Welcome
---------|
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
-# litespam
-Script termux spam sms, call & wa !
+
+# XD-SPAM 
+THIS SC IS CREATED FOR ONLY EDUCATIONAL PURPOSE AND FUN
 
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```php
-$ git clone https://github.com/Sxp-ID/litespam
-$ cd litespam
+$ git clone https://github.com/AWAIS-K1NG/XD-SPAM 
+$ cd XD-SPAM
 $ make install
 $ ./main
 
-Atau bisa juga run script nya dg ketik perintah
+RUN THIS COMMAND TO ACTIVE THE SC
 $ make run
 ```
 </details>
 
-## Full tutorialnya?
-- Link video <code><a href="https://youtu.be/hUvkE_lr5d0?si=vURzaBLcUl1vWe7t">klik disini</a></code>
-- Subs yt admin <code><a href="https://youtube.com/@FreeTutorialOfficial?si=9hamt4Px2gXzPY9x">FREE TUTORIAL</a></code>
-<div align="center">
+## JOIN FOR MORR?
+- JOIN TELEGRAM CHANNEL @XD_GANGSTERS
+- JOIN YT CHANNEL @XD_GANGSTERS
 
-### Jgn lupa kasih star masbro !
-</div>
+## THIS PROJECT CREATED BY AWAIS KING 
